@@ -31,6 +31,11 @@ pyinstaller --onfile server.py
 ```
 
 ---
+## Server Running + Swagger:
+
++ The default PORT for this server is `8443`
++ Once binary server is running , navigate to http://locahost:8443 for interaction
++ While server is running, navigate to http://localhost:8443/docs from documentation
 
 ## Modules Info:
 

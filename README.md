@@ -39,7 +39,7 @@ pyinstaller --onfile server.py
 + Main Server Module, Contains all routing as well as Base64 of INDEX.HTML
 + Serves a `__main__` function to run serer as script
 
-###`redis_interface.py`
+### `redis_interface.py`
 
 + A simple REDIS implementation, responsible for CRUD actions including DUMP of In-Memory to Storage  
 

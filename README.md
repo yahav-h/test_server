@@ -37,6 +37,7 @@ pyinstaller --onfile server.py
 + Once binary server is running , navigate to http://locahost:8443 for interaction
 + While server is running, navigate to http://localhost:8443/docs from documentation
 
+---
 ## Modules Info:
 
 ### `server.py`

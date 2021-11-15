@@ -12,7 +12,7 @@ This repository contains a simple RESTAful API server with one serving index.htm
 2. Must have pip Installed; If not, refer to https://pip.pypa.io/en/stable/installing .
 3. Once all 1&2 are installed and ready, You'll need to create a new virtual environment, use the below command from the PROJECT_DIRECTORY 
 ```shell
-python3 -m virtualenv venv
+python3 -m venv ./venv
 ```
 4. Install all dependencies by the following command from the PROJECT_DIRECTORY
 ```shell

@@ -56,4 +56,10 @@ pyinstaller --onfile server.py
 + The `dump.rdb` resource responsible to store all In-Memory dumps to Storage and work as a Cache file
 
 ### `requirements.txt`
-+ The `requirements.txt` resource contains all dependencies for this repository 
++ The `requirements.txt` resource contains all dependencies for this repository
+
+### `deploy.sh` 
++ Simple `#!/bin/bash` script which compile the project for a Mac / Linux based environments 
+
+### `deploy.bat`
++ Simple `batch` script which compile the project for a Windows based environments 
